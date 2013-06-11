@@ -1,0 +1,4 @@
+Hello World! 
+
+My First App displays a text box you can type in, and a'Send' button. 
+On pressing 'Send', a second activity starts which displays the entered text on a cleared screen. 
